@@ -178,7 +178,7 @@ blockquote {
   margin-bottom: 32px;
 }
 
-.card:last-child{
+.card:last-child {
   margin-bottom: 0;
 }
 
@@ -211,7 +211,7 @@ blockquote {
   padding-bottom: 8px;
 }
 
-.card__text{
+.card__text {
   line-height: 21.6px;
 }
 
